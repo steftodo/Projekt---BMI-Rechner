@@ -1,6 +1,6 @@
 """
 BMI-Rechner - Berechnungslogik
-Autor: [Stefan Todorovski, Mustafa Sipahi]
+Autor: [Mustafa Sipahi / Stefan Todorovski]
 Datum: [14.03.2026]
 Kurzbeschreibung: Enthält die BMI-Berechnungsfunktionen und Datenhaltung
 """
